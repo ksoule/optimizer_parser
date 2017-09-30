@@ -84,7 +84,6 @@
  YOU Acid multi attacks Danariun, the Crypt Keeper for a critical of 7862396 disease damage.
  YOU Dark Pyre multi attacks Danariun, the Crypt Keeper for a critical of 11645320 disease damage.
  YOU Dark Pyre hits Danariun, the Crypt Keeper for a critical of 11645320 disease damage.
- You say to the raid party, "surge glacial freeze"
  YOU Apocalypse multi attacks Danariun, the Crypt Keeper for a critical of 60906383 disease damage.
  YOU Apocalypse hits Danariun, the Crypt Keeper for a critical of 60906383 disease damage.
  YOU Dark Pyre multi attacks Danariun, the Crypt Keeper for a critical of 8754704 disease damage.
@@ -103,7 +102,6 @@
  YOU flurry Danariun, the Crypt Keeper for a critical of 152061 crushing damage.
  YOU Acid multi attacks Danariun, the Crypt Keeper for a critical of 11205805 disease damage.
  YOU Acid hits Danariun, the Crypt Keeper for a critical of 11205805 disease damage.
- You say to the raid party, "surge frozen heavens"
  YOU Septic Strike hits Danariun, the Crypt Keeper for a critical of 1048188352 disease damage.
  YOU Zander's Chorus hits Danariun, the Crypt Keeper for a critical of 54918748 disease damage.
  YOU Strike of Faith hits Danariun, the Crypt Keeper for a Fabled critical of 30279856 disease damage.

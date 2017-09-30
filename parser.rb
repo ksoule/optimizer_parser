@@ -35,13 +35,27 @@
 
 # delimiters:
 # log_file "(..)"
+# time-stamp "[..]"
 # character "'s" - OTHERS "you" - AUTO-ATTACK "your" - ABILITY
 # ability name "hits", "misses"
 # for "crit type"
 # of "damage amount"
 # "damage type"
 
+line = "(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Paragon hits Gorius the Gray for a critical of 38122095 magic damage."
 
+#parse log file
+log_split = line.partition("[")
+log_file = log_split[0].slice!(1..-2)
+line = log_split[1] + log_split[2]
+#parse time stamp
+time_stamp_split = line.partition("] ")
+time_stamp = time_stamp_split.slice!(0) + time_stamp_split.slice!(0)
+line = time_stamp_split[0]
+#parse player
+
+player = line.partition("'s ")[0]
+p player
 
 
 
