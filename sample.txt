@@ -1,0 +1,191 @@
+
+(1499828669)[Tue Jul 11 22:04:29 2017] Your frosty aura fades.
+(1499828669)[Tue Jul 11 22:04:29 2017] a minor Gooblin has killed you.
+(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Paragon hits Gorius the Gray for a critical of 38122095 magic damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Paragon hits a minor Gooblin for a critical of 34943564 magic damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Paragon hits a minor Gooblin for a critical of 27172076 magic damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Nightmares hits Gorius the Gray for a critical of 7649585 disease damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Nightmares heals Phrostflame for a critical of 3230887 hit points.
+(1499828669)[Tue Jul 11 22:04:29 2017] Phrostflame's Nightmares multi attacks Gorius the Gray for a critical of 7145933 disease damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Dallarat's Shroud of Armor absorbs 92118 points of damage from being done to Dallarat with 51121 points of damage bleeding through.
+(1499828669)[Tue Jul 11 22:04:29 2017] Lilybella's Elemental Concerto absorbs 604 points of damage from being done to Dallarat with 49278 points of damage bleeding through.
+(1499828669)[Tue Jul 11 22:04:29 2017] Dallarat's Harbinger absorbs 22922 points of damage from being done to Dallarat with 49266 points of damage bleeding through.
+(1499828669)[Tue Jul 11 22:04:29 2017] Dallarat's Carrion Warding absorbs 2391607 points of damage from being done to Dallarat.
+(1499828669)[Tue Jul 11 22:04:29 2017] Gorius the Gray's Gooing Blind hits Dallarat for 48808 cold damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Dallarat's Ward's Bane hits Gorius the Gray for a critical of 92564 disease damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Dallarat's Ward's Bane hits a minor Gooblin for a critical of 96228 disease damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Dallarat's Serenade reduces THEIR hate with Gorius the Gray for a critical of 25571 threat.
+(1499828669)[Tue Jul 11 22:04:29 2017] An augmentation song affects Gorius the Gray.
+(1499828669)[Tue Jul 11 22:04:29 2017] Saphera's Winds of Healing heals Saphera for a critical of 50752 hit points.
+(1499828669)[Tue Jul 11 22:04:29 2017] Saphera's Primal Instincts hits Gorius the Gray for a critical of 21516 cold damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Narcisse's Ethernean Will refreshes Narcisse for 289 mana points.
+(1499828669)[Tue Jul 11 22:04:29 2017] Narcisse's Reprieve regenerates 747602 points of absorption.
+(1499828669)[Tue Jul 11 22:04:29 2017] a minor Gooblin hits Phrostflame but fails to inflict any damage.
+(1499828669)[Tue Jul 11 22:04:29 2017] Charmainezz's Aura of Leadership regenerates 30568 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Narcisse calls forth primeval curative forces.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 604 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto absorbs 598 points of damage from being done to Grataette with 62158 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Grataette's Reprieve absorbs 755855 points of damage from being done to Grataette with 62146 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Phrostflame's Shroud of Armor absorbs 138350 points of damage from being done to Grataette with 47029 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Gorius the Gray's Gooing Blind hits Grataette for 2213099 cold damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto absorbs 604 points of damage from being done to Lilybella with 30202 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Dallarat's Shroud of Armor absorbs 92118 points of damage from being done to Lilybella with 30190 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Dallarat's Carrion Warding absorbs 1389042 points of damage from being done to Lilybella.
+(1499828670)[Tue Jul 11 22:04:30 2017] Gorius the Gray's Gooing Blind hits Lilybella for 28347 cold damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Ward's Bane hits Gorius the Gray for a critical of 354082 cold damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Ward's Bane hits a minor Gooblin for a Legendary critical of 435209 cold damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Serenade reduces THEIR hate with Gorius the Gray for a critical of 279028 threat.
+(1499828670)[Tue Jul 11 22:04:30 2017] An augmentation song affects Gorius the Gray.
+(1499828670)[Tue Jul 11 22:04:30 2017] Radenrw's Magi's Shielding absorbs 71980 points of damage from being done to Radenrw with 72449 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Radenrw's Ward of Sages absorbs 23997 points of damage from being done to Radenrw with 71009 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Dallarat's Shroud of Armor absorbs 92118 points of damage from being done to Radenrw with 70529 points of damage bleeding through.
+(1499828670)[Tue Jul 11 22:04:30 2017] Dallarat's Carrion Warding absorbs 3365691 points of damage from being done to Radenrw.
+(1499828670)[Tue Jul 11 22:04:30 2017] Gorius the Gray's Gooing Blind hits Radenrw for 68687 cold damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Radenrw's Ward's Bane hits Gorius the Gray but fails to inflict any damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Radenrw's Ward's Bane hits a minor Gooblin but fails to inflict any damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Radenrw's Serenade reduces THEIR hate with Gorius the Gray for a critical of 158236 threat.
+(1499828670)[Tue Jul 11 22:04:30 2017] An augmentation song affects Gorius the Gray.
+(1499828670)[Tue Jul 11 22:04:30 2017] Radenrw's Sanguine Sacrifice refreshes Radenrw for 3206 mana points.
+(1499828670)[Tue Jul 11 22:04:30 2017] Saphera's Ward of the Untamed regenerates 1922981 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Saphera's Ward of the Untamed regenerates 1922981 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Narcisse's Descent of Drinal heals Narcisse for 1451 hit points.
+(1499828670)[Tue Jul 11 22:04:30 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] Dallarat calls forth profane ancestral spirits.
+(1499828670)[Tue Jul 11 22:04:30 2017] a minor Gooblin hits Phrostflame for 6778298 crushing damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] a minor Gooblin hits Phrostflame for 6785238 crushing damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] a minor Gooblin has killed Phrostflame.
+(1499828670)[Tue Jul 11 22:04:30 2017] Your resolve fades.
+(1499828670)[Tue Jul 11 22:04:30 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828670)[Tue Jul 11 22:04:30 2017] Saphera's Healing Grove's Grove Healing refreshes Saphera for a critical of 349 mana points.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828670)[Tue Jul 11 22:04:30 2017] Narcisse's Untamed Regeneration heals Narcisse for a critical of 55401 hit points.
+(1499828670)[Tue Jul 11 22:04:30 2017] Narcisse tries to freeze a minor Gooblin with Infusive Wrath, but a minor Gooblin resists.
+(1499828670)[Tue Jul 11 22:04:30 2017] Narcisse's group is ferociously healthy.
+(1499828670)[Tue Jul 11 22:04:30 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828670)[Tue Jul 11 22:04:30 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828670)[Tue Jul 11 22:04:30 2017] Saphera's Reprieve regenerates 153506 points of absorption.
+(1499828671)[Tue Jul 11 22:04:31 2017] Radenrw's Sanguine Sacrifice refreshes Radenrw for 3206 mana points.
+(1499828671)[Tue Jul 11 22:04:31 2017] Dallarat's Carrion Warding absorbs 7060172 points of damage from being done to Radenrw.
+(1499828671)[Tue Jul 11 22:04:31 2017] a minor Gooblin hits Radenrw for 7060172 crushing damage.
+(1499828671)[Tue Jul 11 22:04:31 2017] Radenrw's surge of flames dissipates.
+(1499828671)[Tue Jul 11 22:04:31 2017] Alas, Radenrw's fire orb has died from pain and suffering.
+(1499828671)[Tue Jul 11 22:04:31 2017] Alas, Radenrw's fire orb has died from pain and suffering.
+(1499828671)[Tue Jul 11 22:04:31 2017] Alas, Radenrw's fire orb has died from pain and suffering.
+(1499828671)[Tue Jul 11 22:04:31 2017] Radenrw's frosty aura fades.
+(1499828671)[Tue Jul 11 22:04:31 2017] Dallarat's frosty aura fades.
+(1499828671)[Tue Jul 11 22:04:31 2017] Squirt's frosty aura fades.
+(1499828671)[Tue Jul 11 22:04:31 2017] Lilybella's frosty aura fades.
+(1499828671)[Tue Jul 11 22:04:31 2017] Radenrw's Carrion Warding fades away.
+(1499828671)[Tue Jul 11 22:04:31 2017] a minor Gooblin has killed Radenrw.
+(1499828671)[Tue Jul 11 22:04:31 2017] Phrostflame's Shroud of Armor regenerates 93942 points of absorption.
+(1499828671)[Tue Jul 11 22:04:31 2017] Barreeka's Runic Armor regenerates 490920 points of absorption.
+(1499828671)[Tue Jul 11 22:04:31 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828671)[Tue Jul 11 22:04:31 2017] Narcisse calls forth primeval curative powers.
+(1499828671)[Tue Jul 11 22:04:31 2017] Saphera's Faerie Ally's Faerie Aid heals Lilybella for 19438 hit points.
+(1499828671)[Tue Jul 11 22:04:31 2017] Saphera's Faerie Ally's Faerie Aid heals Saphera's Healing Grove for 63 hit points.
+(1499828671)[Tue Jul 11 22:04:31 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828671)[Tue Jul 11 22:04:31 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828671)[Tue Jul 11 22:04:31 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828671)[Tue Jul 11 22:04:31 2017] Dallarat's Wild Accretion heals Dallarat for a critical of 48808 hit points.
+(1499828671)[Tue Jul 11 22:04:31 2017] Dallarat's group is invigorated.
+(1499828671)[Tue Jul 11 22:04:31 2017] Lilybella's group is invigorated.
+(1499828671)[Tue Jul 11 22:04:31 2017] Squirt's group is invigorated.
+(1499828671)[Tue Jul 11 22:04:31 2017] Saphera's Reprieve absorbs 153506 points of damage from being done to Saphera with 3773198 points of damage bleeding through.
+(1499828671)[Tue Jul 11 22:04:31 2017] a minor Gooblin hits Saphera for 7392890 crushing damage.
+(1499828671)[Tue Jul 11 22:04:31 2017] Dallarat's Harbinger regenerates 22927 points of absorption.
+(1499828671)[Tue Jul 11 22:04:31 2017] Saphera's Healstorm heals Saphera for a critical of 2197307 hit points.
+(1499828671)[Tue Jul 11 22:04:31 2017] Saphera's Winds of Healing heals Saphera for a critical of 572103 hit points.
+(1499828671)[Tue Jul 11 22:04:31 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828672)[Tue Jul 11 22:04:32 2017] Narcisse's Descent of Drinal heals Saphera for 1451 hit points.
+(1499828672)[Tue Jul 11 22:04:32 2017] Gorius the Gray's Flinging Goo hits Lilybella for 1076851 crushing damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] Phrostflame's Shroud of Armor regenerates 93942 points of absorption.
+(1499828672)[Tue Jul 11 22:04:32 2017] Phrostflame's Shroud of Armor regenerates 93942 points of absorption.
+(1499828672)[Tue Jul 11 22:04:32 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828672)[Tue Jul 11 22:04:32 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828672)[Tue Jul 11 22:04:32 2017] a minor Gooblin hits Saphera for 8010575 crushing damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] Alas, Saphera's Faerie Ally has died from pain and suffering.
+(1499828672)[Tue Jul 11 22:04:32 2017] Alas, Saphera's Healing Grove has died from pain and suffering.
+(1499828672)[Tue Jul 11 22:04:32 2017] The golden light around Saphera's group disappears.
+(1499828672)[Tue Jul 11 22:04:32 2017] The golden light around Narcisse's group disappears.
+(1499828672)[Tue Jul 11 22:04:32 2017] Saphera's chlorophyll disperses.
+(1499828672)[Tue Jul 11 22:04:32 2017] The spirit of the wolf leaves Saphera.
+(1499828672)[Tue Jul 11 22:04:32 2017] a minor Gooblin has killed Saphera.
+(1499828672)[Tue Jul 11 22:04:32 2017] Your resolve fades.
+(1499828672)[Tue Jul 11 22:04:32 2017] You cannot cast a spell while dead.
+(1499828672)[Tue Jul 11 22:04:32 2017] \aPC -1 Lilybella:Lilybella\/a says to the raid party, "Lilybella CURSE"
+(1499828672)[Tue Jul 11 22:04:32 2017] Narcisse's Ethernean Will refreshes Narcisse for 289 mana points.
+(1499828672)[Tue Jul 11 22:04:32 2017] Saphera's Primal Instincts hits Gorius the Gray for a critical of 12169 cold damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] Narcisse's Reprieve regenerates 747602 points of absorption.
+(1499828672)[Tue Jul 11 22:04:32 2017] Lilybella's Poison hits Gorius the Gray but fails to inflict any damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] YOUR Elemental Concerto regenerates 604 points of absorption.
+(1499828672)[Tue Jul 11 22:04:32 2017] Narcisse's group has increased vitality!
+(1499828672)[Tue Jul 11 22:04:32 2017] Charmainezz's Aura of Leadership regenerates 30568 points of absorption.
+(1499828672)[Tue Jul 11 22:04:32 2017] Charmainezz's Blessing of the Paladin regenerates 345 points of absorption.
+(1499828672)[Tue Jul 11 22:04:32 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828672)[Tue Jul 11 22:04:32 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges the multi attack.
+(1499828672)[Tue Jul 11 22:04:32 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828672)[Tue Jul 11 22:04:32 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828673)[Tue Jul 11 22:04:33 2017] Lilybella's Elemental Concerto regenerates 604 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828673)[Tue Jul 11 22:04:33 2017] Lilybella's Elemental Concerto regenerates 604 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] Lilybella's Elemental Concerto regenerates 598 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] Dallarat's Shroud of Armor regenerates 92118 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] Dallarat's Shroud of Armor regenerates 92118 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] Dallarat's Shroud of Armor regenerates 92118 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] YOUR Shroud of Armor regenerates 92118 points of absorption.
+(1499828673)[Tue Jul 11 22:04:33 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828673)[Tue Jul 11 22:04:33 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828673)[Tue Jul 11 22:04:33 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges the multi attack.
+(1499828673)[Tue Jul 11 22:04:33 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828673)[Tue Jul 11 22:04:33 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] \aPC -1 Chaily:Chaily\/a tells General (2), "OF pq in 1 min"
+(1499828674)[Tue Jul 11 22:04:34 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828674)[Tue Jul 11 22:04:34 2017] Ironico's Ward of Sages regenerates 8797 points of absorption.
+(1499828674)[Tue Jul 11 22:04:34 2017] Radenrw's Ward of Sages regenerates 19542 points of absorption.
+(1499828674)[Tue Jul 11 22:04:34 2017] YOUR Ward of Sages regenerates 7015 points of absorption.
+(1499828674)[Tue Jul 11 22:04:34 2017] Lilybella's Elemental Concerto absorbs 598 points of damage from being done to Narcisse with 42313 points of damage bleeding through.
+(1499828674)[Tue Jul 11 22:04:34 2017] Narcisse's Reprieve absorbs 1495206 points of damage from being done to Narcisse with 42301 points of damage bleeding through.
+(1499828674)[Tue Jul 11 22:04:34 2017] Gorius the Gray's Gooing Blind hits Narcisse for 619882 cold damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Shroud of Armor regenerates 92118 points of absorption.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Shroud of Armor absorbs 92118 points of damage from being done to Dallarat with 54296 points of damage bleeding through.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Harbinger absorbs 22927 points of damage from being done to Dallarat with 52454 points of damage bleeding through.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Carrion Warding absorbs 2547780 points of damage from being done to Dallarat.
+(1499828674)[Tue Jul 11 22:04:34 2017] Gorius the Gray's Gooing Blind hits Dallarat for 51995 cold damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Ward's Bane hits Gorius the Gray for a Legendary critical of 81050 disease damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Ward's Bane hits a minor Gooblin for a critical of 71685 disease damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Serenade reduces THEIR hate with Gorius the Gray for a critical of 25002 threat.
+(1499828674)[Tue Jul 11 22:04:34 2017] An augmentation song affects Gorius the Gray.
+(1499828674)[Tue Jul 11 22:04:34 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Gorius the Gray's Gooing Blind hits Grataette for 1993487 cold damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Shroud of Armor absorbs 92118 points of damage from being done to Lilybella with 33364 points of damage bleeding through.
+(1499828674)[Tue Jul 11 22:04:34 2017] Dallarat's Carrion Warding absorbs 1544598 points of damage from being done to Lilybella.
+(1499828674)[Tue Jul 11 22:04:34 2017] Gorius the Gray's Gooing Blind hits Lilybella for 31522 cold damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Lilybella's Ward's Bane hits Gorius the Gray but fails to inflict any damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Lilybella's Ward's Bane hits a minor Gooblin but fails to inflict any damage.
+(1499828674)[Tue Jul 11 22:04:34 2017] Lilybella's Serenade reduces THEIR hate with Gorius the Gray for a critical of 267490 threat.
+(1499828674)[Tue Jul 11 22:04:34 2017] An augmentation song affects Gorius the Gray.
+(1499828674)[Tue Jul 11 22:04:34 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828675)[Tue Jul 11 22:04:35 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
+(1499828675)[Tue Jul 11 22:04:35 2017] Gorius the Gray's Flinging Goo hits Lilybella for 2305213 crushing damage.
+(1499828675)[Tue Jul 11 22:04:35 2017] YOUR Virulent Outbreak multi attacks a minor Gooblin but fails to inflict any damage.
+(1499828675)[Tue Jul 11 22:04:35 2017] YOUR Virulent Outbreak hits a minor Gooblin but fails to inflict any damage.
+(1499828675)[Tue Jul 11 22:04:35 2017] a minor Gooblin hits Grataette but fails to inflict any damage.
+(1499828675)[Tue Jul 11 22:04:35 2017] Gorius the Gray tries to crush Lilybella, but Lilybella dodges.
+(1499828675)[Tue Jul 11 22:04:35 2017] Gorius the Gray's Flinging Goo hits Lilybella for 2326241 crushing damage.
+(1499828675)[Tue Jul 11 22:04:35 2017] Narcisse's Ethernean Will refreshes Narcisse for 289 mana points.
+(1499828675)[Tue Jul 11 22:04:35 2017] Narcisse's Reprieve regenerates 747602 points of absorption.
+(1499828675)[Tue Jul 11 22:04:35 2017] Narcisse's Autumn's Kiss heals Narcisse for a critical of 619882 hit points.
+(1499828675)[Tue Jul 11 22:04:35 2017] a minor Gooblin tries to crush Lilybella, but Lilybella dodges.
