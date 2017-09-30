@@ -23,7 +23,8 @@
 
 # log
 #   >character
-#     >ability
+#   >abilities
+#       >ability_name
 #       >damage_amount (array of all damage)
 #       >damage_type (array of types of damage)
 #       >ability_type (DOT or single hit)
@@ -33,9 +34,6 @@
 #       >number_of hits_for_dots
 
 
-# delimiters:
-# log_file "(..)"
-# time-stamp "[..]"
 # character "'s" - OTHERS "you" - AUTO-ATTACK "your" - ABILITY
 # ability name "hits", "misses"
 # for "crit type"
@@ -52,10 +50,23 @@ line = log_split[1] + log_split[2]
 time_stamp_split = line.partition("] ")
 time_stamp = time_stamp_split.slice!(0) + time_stamp_split.slice!(0)
 line = time_stamp_split[0]
-#parse player
+#parse player or mob
+  if line[0] == "YOU" || line[0] == "YOUR"
+    type = "You"
+  elsif line.index(" ") != (line.index("'") + 2)
+    type = "NPC"
+  else
+    type = "other_player"
+  end
+  p type
 
-player = line.partition("'s ")[0]
-p player
+  # if type == mob
+  #   mob = line.partition("'s ")[0].slice!
+  # elsif type == player
+  #   player = line.partition("'s ")[0].slice!
+  # elsif type == "#{initiator}"
+  #   if line[0] == "YOU"
+
 
 
 
